@@ -25,22 +25,6 @@ Detectar possíveis fraudes em transações utilizando um modelo pré-treinado d
 
 ---
 
-##  Estrutura do Projeto
-fraud_detection/
-├── data/
-├── src/
-│ ├── train.py
-│ ├── predict.py
-│ ├── preprocess.py
-│ ├── guardrails.py
-├── mlruns/
-├── requirements.txt
-├── relatorio.md
-└── README.md
-
-
----
-
 ##  Como Executar
 
 ### 1. Instalar dependências
